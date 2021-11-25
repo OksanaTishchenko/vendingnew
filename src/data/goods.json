@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "A1",
+    "price": 0.50,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 2,
+    "title": "A2",
+    "price": 0.50,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 3,
+    "title": "A3",
+    "price": 0.50,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 4,
+    "title": "A4",
+    "price": 0.50,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 5,
+    "title": "A5",
+    "price": 0.50,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 6,
+    "title": "A6",
+    "price": 0.50,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 7,
+    "title": "B1",
+    "price": 0.75,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 8,
+    "title": "B2",
+    "price": 0.75,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 9,
+    "title": "B3",
+    "price": 0.75,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 10,
+    "title": "B4",
+    "price": 0.75,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 11,
+    "title": "B5",
+    "price": 0.75,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 12,
+    "title": "B6",
+    "price": 0.75,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 13,
+    "title": "C1",
+    "price": 1.00,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 14,
+    "title": "C2",
+    "price": 1.00,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 15,
+    "title": "C3",
+    "price": 1.00,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 16,
+    "title": "C4",
+    "price": 1.00,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 17,
+    "title": "C5",
+    "price": 1.00,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  },
+  {
+    "id": 18,
+    "title": "C6",
+    "price": 1.00,
+    "image": "https://pngimg.com/uploads/cocacola/coca_cola_PNG8899.png"
+  }
+]
