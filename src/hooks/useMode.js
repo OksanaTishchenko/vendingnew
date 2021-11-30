@@ -1,11 +1,11 @@
 import { useState } from "react";
 
 export const useMode = () => {
-  const [mode, setMode] = useState(false);
+  const [isDark, setIsDark] = useState(true);
 
-  const changeMode = () => {
-    setMode(!mode)
+  const changeIsDark = () => {
+    setIsDark(!isDark)
   }
 
-  return { mode, changeMode }
+  return { isDark, changeIsDark }
 }
