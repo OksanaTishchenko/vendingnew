@@ -1,4 +1,4 @@
-import Machine from "components/Machine/Machine";
+import Machine from "./components/Machine/Machine";
 import { useTheme } from "@emotion/react";
 import { css, Global } from "@emotion/react";
 

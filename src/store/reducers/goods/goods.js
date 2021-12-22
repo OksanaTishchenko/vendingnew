@@ -1,4 +1,4 @@
-import { ADD_GOODS } from "store/constants";
+import { ADD_GOODS } from "../../constants";
 
 const initialState = {
   goods: []

@@ -5,10 +5,10 @@ import App from "./App";
 import { useMode } from "./hooks/useMode";
 
 import { Provider } from "react-redux";
-import { store } from "store/store";
+import { store } from "./store/store";
 import { ThemeProvider } from "@emotion/react";
 
-import { modeContext } from "context/modeContext";
+import { modeContext } from "./context/modeContext";
 
 const themeDark = {
   background: "#537895",

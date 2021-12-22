@@ -3,15 +3,15 @@
 import { useState, useEffect, useCallback, useContext } from "react";
 import { useDispatch, useSelector } from "react-redux";
 
-import { modeContext } from "context/modeContext";
-import Modal from "components/Modal/Modal";
-import Icons from "components/Icons/Icons";
-import Goods from "components/Goods/Goods";
-import ButtonContainer from "components/ButtonContainer/ButtonContainer";
-import Display from "components/Display/Display";
-import data from "data/goods.json";
-import { setGoods, addCash, clearCash } from "store/actions";
-import Request from "request.js";
+import { modeContext } from "../../context/modeContext";
+import Modal from "../Modal/Modal";
+import Icons from "../Icons/Icons";
+import Goods from "../Goods/Goods";
+import ButtonContainer from "../ButtonContainer/ButtonContainer";
+import Display from "../Display/Display";
+import data from "../../data/goods.json";
+import { setGoods, addCash, clearCash } from "../../store/actions";
+import Request from "../../request.js";
 
 import { styles } from "./styles";
 

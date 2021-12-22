@@ -1,4 +1,4 @@
-import { ADD_CASH, CLEAR_CASH } from "store/constants";
+import { ADD_CASH, CLEAR_CASH } from "../../constants";
 
 const initialState = {
   cash: 0
