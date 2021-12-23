@@ -3,7 +3,7 @@ import { useTheme } from "@emotion/react";
 import { css, Global } from "@emotion/react";
 
 function App() {
-  const theme = useTheme()
+  const theme = useTheme();
 
   return (
     <div>
